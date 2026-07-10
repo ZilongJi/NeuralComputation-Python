@@ -1,8 +1,10 @@
 # Head Direction Ring Attractor Tutorial
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZilongJi/NeuralComputation-Python/blob/main/Head%20Direction%20Circuit/head_direction_ring_attractor_tutorial.ipynb)
+
 This repository contains a step-by-step Jupyter notebook for a hands-on tutorial on head direction cells and ring attractor models.
 
-The main teaching file is [head_direction_ring_attractor_tutorial.ipynb](/Users/zilong/Desktop/HeaddirectionCoding/head_direction_ring_attractor_tutorial.ipynb).
+The main teaching file is [head_direction_ring_attractor_tutorial.ipynb](head_direction_ring_attractor_tutorial.ipynb).
 
 ## What The Tutorial Covers
 
@@ -17,12 +19,12 @@ The notebook is organized into three parts:
 
 ## Repository Contents
 
-- [head_direction_ring_attractor_tutorial.ipynb](/Users/zilong/Desktop/HeaddirectionCoding/head_direction_ring_attractor_tutorial.ipynb): the main workshop notebook
-- [utils.py](/Users/zilong/Desktop/HeaddirectionCoding/utils.py): helper functions for plotting and analysis
-- [NeuralData/EmpiricalHDData.npz](/Users/zilong/Desktop/HeaddirectionCoding/NeuralData/EmpiricalHDData.npz): empirical head direction dataset used in Section A
-- [NeuralData/HDC_binned_Dataset_1_A3701-191119.npz](/Users/zilong/Desktop/HeaddirectionCoding/NeuralData/HDC_binned_Dataset_1_A3701-191119.npz): binned dataset used for population analyses
-- [Figures/recordingsite.png](/Users/zilong/Desktop/HeaddirectionCoding/Figures/recordingsite.png): recording-site figure used in the notebook
-- [Figures/SkaggsModel.png](/Users/zilong/Desktop/HeaddirectionCoding/Figures/SkaggsModel.png): schematic used in the velocity-integrator section
+- [head_direction_ring_attractor_tutorial.ipynb](head_direction_ring_attractor_tutorial.ipynb): the main workshop notebook
+- [utils.py](utils.py): helper functions for plotting and analysis
+- [NeuralData/EmpiricalHDData.npz](NeuralData/EmpiricalHDData.npz): empirical head direction dataset used in Section A
+- [NeuralData/HDC_binned_Dataset_1_A3701-191119.npz](NeuralData/HDC_binned_Dataset_1_A3701-191119.npz): binned dataset used for population analyses
+- [Figures/recordingsite.png](Figures/recordingsite.png): recording-site figure used in the notebook
+- [Figures/SkaggsModel.png](Figures/SkaggsModel.png): schematic used in the velocity-integrator section
 
 ## Running Locally
 
