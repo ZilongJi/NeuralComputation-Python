@@ -1,6 +1,6 @@
 # Head Direction Ring Attractor Tutorial
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZilongJi/NeuralComputation-Python/blob/main/Module1_HeadDirectionCircuit/head_direction_ring_attractor_tutorial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZilongJi/NeuralComputation-Python/blob/main/Module1_HeadDirectionCircuit/head_direction_ring_attractor_tutorial.ipynb?hl=en)
 
 This repository contains a step-by-step Jupyter notebook for a hands-on tutorial on head direction cells and ring attractor models.
 
